@@ -13,7 +13,7 @@ In terms of programming languages used, I tend to have enough familiarity with s
 
 Generally, if I'm creating something from scratch, it's because I've seen something I want to achieve for myself, and then made public. 
 
-If you need to reach me off-site, I can be found on Twitter at @DragRedSim. Be warned that I am not necessarily the most prompt responder, and it may take me a while to get to you; I do struggle with overloading from too many different tasks and topics to consider.
+If you need to reach me off-site, I used to be able to be found on Twitter at @DragRedSim; nowadays, I'm most easily contactable over Discord at DragRedSim#6381. Be warned that I am not necessarily the most prompt responder, and it may take me a while to get to you; I do struggle with overloading from too many different tasks and topics to consider.
 
 <!---
 DragRedSim/DragRedSim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
